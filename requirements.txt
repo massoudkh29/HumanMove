@@ -1,4 +1,2 @@
-pytube
 opencv-python
-mediapipe
 numpy 
